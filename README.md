@@ -10,8 +10,8 @@ programming languages you know or want to learn.
 
 ## Prerequisites
 
--   [ga-wdi-boston/js-array-methods](https://github.com/ga-wdi-boston/js-array-methods)
--   [ga-wdi-boston/js-array-methods-diagnostic](https://github.com/ga-wdi-boston/js-array-methods-diagnostic)
+-   [ga-wdi-boston/js-array-methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-methods)
+-   [ga-wdi-boston/js-array-methods-diagnostic](https://git.generalassemb.ly/ga-wdi-boston/js-array-methods-diagnostic)
 -   ["Counting in Binary" from Wikipedia](https://en.wikipedia.org/wiki/Binary_number#Counting_in_binary)
 
 ## Instructions
@@ -25,9 +25,9 @@ programming languages you know or want to learn.
 Work in [`lib/challenge.js`](lib/challenge.js). A pull request is note required,
 but it is necessary if you want a code review.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
 related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
