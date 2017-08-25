@@ -22,7 +22,7 @@ programming languages you know or want to learn.
 1.  Create and checkout a new branch to work on.
 1.  Fulfill the listed requirements.
 
-Work in [`lib/challenge.js`](lib/challenge.js). A pull request is note required,
+Work in [`lib/challenge.js`](lib/challenge.js). A pull request is not required,
 but it is necessary if you want a code review.
 
 You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
