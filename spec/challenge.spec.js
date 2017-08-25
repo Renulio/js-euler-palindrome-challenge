@@ -24,7 +24,7 @@ describe('Double base palindromes', function () {
     // palindromes for 2 and 10 between 585586 and 1000000
     // Using 585586 as the upper limit on a 2015 Mac Book Project
     // keeps the test run for the example string solution
-    // to approximatley 1500 milliseconds
+    // to approximately 1500 milliseconds
     it('returns 872187', function () {
       expect(challenge.doubleBasePalindromeSum(2, 10, 585586))
         .to.equal(872187)
